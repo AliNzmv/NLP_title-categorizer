@@ -47,7 +47,7 @@ Clone the repository and start working:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/NLP_title-categorizer.git
+git clone https://github.com/AliNzmv/NLP_title-categorizer.git
 
 ```
 
