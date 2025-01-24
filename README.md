@@ -46,20 +46,9 @@ Here is a sample mapping of `cat_id` to product categories:
 Clone the repository and start working:
 
 ```bash
-# Step 1: Clone the repo
-git clone https://github.com/your-username/title-categorizer.git
+# Clone the repo
+git clone https://github.com/your-username/NLP_title-categorizer.git
 
-# Step 2: Navigate to the project directory
-cd title-categorizer
-
-# Step 3: Install dependencies
-pip install -r requirements.txt
-
-# Step 4: Train the model
-python train_model.py --dataset torob_data.csv
-
-# Step 5: Test the categorizer
-python test_model.py --input "کاپشن مردانه زمستانی"
 ```
 
 ---
